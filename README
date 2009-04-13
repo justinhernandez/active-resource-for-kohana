@@ -1,0 +1,9 @@
+Active Resource library for the Kohana Framework
+Justin Hernandez <justin@transphorm.com>
+Version: 0.1
+Date: 4/13/09
+
+Ported from phpactiveresource(v0.4b) written by John Luxford
+http://code.google.com/p/phpactiveresource/
+
+Thanks John!
